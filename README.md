@@ -1,0 +1,5 @@
+#Data visualzation and Dashboards building
+
+I have successfully completed data visualization projects, including forecasting annual sales for an e-commerce store. These projects were part of virtual internships offered by KPMG and Tata, where I gained hands-on experience in data analysis and dashboard development. 
+
+These experiences have equipped me with valuable skills in transforming complex datasets into actionable insights, fostering a strong foundation in data-driven decision-making.
